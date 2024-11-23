@@ -32,3 +32,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?content_id=6de4794cd02f88f14354b59968234
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 4" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="www.elcano.top", DAZN LaLiga 720
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+
+#EXTINF:-1 tvg-id="M+ Vamos" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="www.elcano.top", #Vamos 1080
+http://127.0.0.1:6878/ace/manifest.m3u8?content_id=d03c13b6723f66155d7a0df3692a3b073fe630f2
