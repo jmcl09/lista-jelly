@@ -35,3 +35,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?content_id=8c8c1e047a1c5ed213ba74722a534
 
 #EXTINF:-1 tvg-id="M+ Vamos" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="www.elcano.top", #Vamos 1080
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+
+#EXTINF:-1 tvg-id="Prueba" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="www.elcano.top", Prueba
+http://192.168.1.151:6878/ace/manifest.m3u8?content_id=d03c13b6723f66155d7a0df3692a3b073fe630f2
