@@ -6,7 +6,7 @@ http://192.168.1.151:6878/ace/manifest.m3u8?content_id=639c561dd57fa3fc91fde715c
 #EXTINF:-1 tvg-id="Liga TV Bar" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top",M. LaLiga TV Bar
 http://192.168.1.151:6878/ace/manifest.m3u8?content_id=94d34491106e00394835c8cb68aa94481339b53f
 
-#EXTINF:-1 tvg-id="Movistar LaLiga TV 3" tvg-logo="https://raw.githubusercontent.com/jmcl09/lista-jelly/refs/heads/main/logos/movistar-laliga.png" group-title="www.elcano.top", M. LaLiga 1080P
+#EXTINF:-1 tvg-id="Movistar LaLiga TV 3" tvg-logo="https://raw.githubusercontent.com/jmcl09/lista-jelly/refs/heads/main/logos/movistar-laliga.png" group-title="www.elcano.top", M. La Liga TV Bar
 http://192.168.1.151:6878/ace/manifest.m3u8?content_id=94d34491106e00394835c8cb68aa94481339b53f
 
 #EXTINF:-1 tvg-id="Movistar LaLiga TV 1" tvg-logo="https://raw.githubusercontent.com/jmcl09/lista-jelly/refs/heads/main/logos/movistar-laliga.png" group-title="www.elcano.top", M. LaLiga 1080 MultiAudio 1
