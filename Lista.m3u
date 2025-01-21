@@ -50,3 +50,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?content_id=c070cdb701fc46bb79d17568d99fc
 
 #EXTINF:-1 tvg-id="M Plus" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M. Plus
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=56ac8e227d526e722624675ccdd91b0cc850582f
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" group-title="www.elcano.top", EuroSport 1 1080
+http://127.0.0.1:6878/ace/manifest.m3u8?content_id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
