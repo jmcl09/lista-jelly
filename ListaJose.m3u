@@ -25,10 +25,10 @@ http://192.168.1.151:6878/ace/manifest.m3u8?content_id=1bc437bce57b4b0450f6d1f8d
 http://192.168.1.151:6878/ace/manifest.m3u8?content_id=d6281d4e6310269b416180442a470d23a4a99dc9
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 1" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="www.elcano.top", DAZN LaLiga 1080 multiaudio 1
-http://192.168.1.151:6878/ace/manifest.m3u8?content_id=ec29289b0b14756e686c03a501bae1efa05be70c
+http://192.168.1.151:6878/ace/manifest.m3u8?content_id=110d441ddc9713a7452588770d2bc85504672f47
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="www.elcano.top", DAZN LaLiga 1080 multiaudio 2
-http://192.168.1.151:6878/ace/manifest.m3u8?content_id=97ba38d47680954be40e48bd8f43e17222fefecb
+http://192.168.1.151:6878/ace/manifest.m3u8?content_id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 3" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="www.elcano.top", DAZN LaLiga 1080 multiaudio 3
 http://192.168.1.151:6878/ace/manifest.m3u8?content_id=6de4794cd02f88f14354b5996823413a59a1de0f
